@@ -17,6 +17,7 @@ Passos para  jogar:
 6. Divirta-se 
 
 Como o jogo funciona:
+
 Ao executar o jogo, se voce for o cliente você joga primeiro, sendo assim, o servidor sempre joga em segundo.
 
 Você irá ver dois tabuleiros em Ascii art, o primeiro tabuleiro é o seu, com seus navios, o segundo tabuleiro é o inimigo, ele está vazio, pois os navios dele estão escondidos.
